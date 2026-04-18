@@ -1,2 +1,0 @@
-# .github
-Custom AI Pipelines
